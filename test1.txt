@@ -1,8 +1,0 @@
-this is line 1 from test1
-this is line 2 from test1
-this is extra line
-<<<<<<< HEAD
-one more extra line added from me
-=======
-
->>>>>>> hina
